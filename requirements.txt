@@ -1,0 +1,5 @@
+# No specific Python requirements for the core C++ library, 
+# but can be used for build tools or Python-based testing.
+# Example: 
+# cmake
+# conan
